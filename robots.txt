@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Sempiternal-83.github.io/snippets-eb8m8o/sitemap.xml
